@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "guild": "YOUR_GUILD_ID_HERE",
+  "channelid": "YOUR_CHANNEL_ID_HERE",
+  "password": "YOUR_PASSWORD_HERE"
+}
